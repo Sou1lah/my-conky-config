@@ -1,0 +1,20 @@
+Changelog
+------------------------------
+Altair - Conky Theme
+[ Orion Themes Pack ] 
+
+by Closebox73
+------------------------------
+
+v1.0
+date : 02 Apr 2021
+-	Initial release
+
+
+v2.0
+date : 28 Jan 2023
+-	Add override_utf8_locale line
+-	Change font from Quicksand to be Dosis
+-	Add Changelog file
+-	A few changes to the script
+-	Add Light theme
